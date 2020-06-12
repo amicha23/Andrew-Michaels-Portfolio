@@ -11,4 +11,4 @@
 - Create interactive visualizations to illustrate patterns.
 - Incorporate elements into a web application.
 
-!["Project 2 Illustration"](/images/University_Picture.PNG)
+!["Project 2 Illustration"](/images/DataReportPic.PNG)
