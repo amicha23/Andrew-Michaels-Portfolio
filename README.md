@@ -8,4 +8,4 @@ Andrew Michaels Data Science Portfolio
 - Style Web application with HTML and CSS to incoporate UI elements.
 - Optimze interactivity with RShiny application to feature sever-side development
 
-![](
+![](/images/University_Picture.PNG)
