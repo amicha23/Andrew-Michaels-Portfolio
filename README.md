@@ -10,8 +10,9 @@ Andrew Michaels Data Science Portfolio
 
 ![](/images/University_Picture.PNG)
 
-# [Project 2:2018 U.S. Mass Shootings Data Report](https://github.com/amicha23/Data_Report)
+# [Project 2: 2018 U.S. Mass Shootings Data Report](https://github.com/amicha23/Data_Report)
 - Clean and aggregate dataset to analyze factors that influenced 2018 US mass shooting locations and times.
 - Create interactive visualizations to illustrate patterns.
 - Incorporate elements into a web application.
 
+![](/images/Data%20Reportpic.PNG)
