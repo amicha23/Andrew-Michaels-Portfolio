@@ -9,3 +9,6 @@ Andrew Michaels Data Science Portfolio
 - Optimze interactivity with RShiny application to feature sever-side development
 
 ![](/images/University_Picture.PNG)
+
+# [Project 2:2018 U.S. Mass Shootings Data Report](https://github.com/info-201a-sp20/a5-amicha23)
+-
