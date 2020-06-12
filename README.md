@@ -7,3 +7,5 @@ Andrew Michaels Data Science Portfolio
 - Clean datasets and build models to allow viewers to efficiently acknowledge United States university statistcs.
 - Style Web application with HTML and CSS to incoporate UI elements.
 - Optimze interactivity with RShiny application to feature sever-side development
+
+![](
