@@ -4,9 +4,9 @@
 - Style Web application with HTML and CSS to incorporate UI elements.
 - Optimzie interactivity with RShiny application to feature server-side development
 
-!["Project 1 view"](/images/view.png)
+!["Project 1 view"](/images/view.PNG)
 !["Project 1 search"](/images/search.PNG)
-!["Project 1 post"](/images/post.PNG)
+!["Project 1 post"](/images/create.PNG)
 
 
 
