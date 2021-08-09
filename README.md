@@ -1,3 +1,5 @@
+# Andrew Michaels
+
 # [TF-IDF Search Engine](https://github.com/amicha23/University-Data)
 - Optimize a Java Information Retrieval System that uses Term Frequency-Inverse Document Frequency to retrieve the most relevant documents given a query. 
 - Implement a ranking system that presents the relevance of each document in the directory to a given term.
