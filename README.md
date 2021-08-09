@@ -5,8 +5,6 @@
 - Implement a ranking system that presents the relevance of each document in the directory to a given term.
 
 
-!["Project 3 Illustration"](/images/University_Picture.PNG)
-
 # [Homework Board](https://github.com/amicha23/Homework-Board)
 - Built a web app to allow students easy access to an interactive platform to ask questions while completing homework assignments and form study groups
 - Utilized Node and Express to build a REST API server; all data stored in a database using SQLite.
