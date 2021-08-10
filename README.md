@@ -11,7 +11,15 @@
 
 
 !["view"](/images/view.PNG)
+
+
+
+
 !["search"](/images/search.PNG)
+
+
+
+
 !["post"](/images/create.PNG)
 
 
