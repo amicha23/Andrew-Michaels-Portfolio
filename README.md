@@ -2,6 +2,7 @@
 - Optimize a Java Information Retrieval System that uses Term Frequency-Inverse Document Frequency to retrieve the most relevant documents given a query. 
 - Implement a ranking system that presents the relevance of each document in the directory to a given term.
 
+!["Multi-query Search"](/images/queries.PNG)
 
 # [Homework Board](https://github.com/amicha23/Homework-Board)
 - Built a web app to allow students easy access to an interactive platform to ask questions while completing homework assignments and form study groups
@@ -9,9 +10,9 @@
 - Client built using HTML, CSS, & JavaScript; users can view, like, create, search, filter, and delete posts. 
 
 
-!["Project 1 view"](/images/view.PNG)
-!["Project 1 search"](/images/search.PNG)
-!["Project 1 post"](/images/create.PNG)
+!["view"](/images/view.PNG)
+!["search"](/images/search.PNG)
+!["post"](/images/create.PNG)
 
 
 
