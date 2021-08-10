@@ -10,12 +10,12 @@
 - Client built using HTML, CSS, & JavaScript; users can view, like, create, search, filter, and delete posts. 
 
 
-!["view"](/images/view.PNG)
+!["view"](/images/view.png)
 
 
 
 
-!["search"](/images/searchterm.png)
+!["search"](/images/search.png)
 
 
 
