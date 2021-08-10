@@ -15,7 +15,7 @@
 
 
 
-!["search"](/images/searchterm.PNG)
+!["search"](/images/searchterm.png)
 
 
 
