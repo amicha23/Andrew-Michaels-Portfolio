@@ -1,13 +1,13 @@
 # [TF-IDF Search Engine](https://github.com/amicha23/University-Data)
 - Optimize a Java Information Retrieval System that uses Term Frequency-Inverse Document Frequency to retrieve the most relevant documents given a query. 
-- Implement a ranking system that presents the relevance of each document in the directory to a given term.
+- Implement a ranking system and sorting algorithm that presents the relevance of each document in a directory based on a single query or multi-query inputted by the user.
 
 !["Multi-query Search"](/images/queries.PNG)
 
 # [Homework Board](https://github.com/amicha23/Homework-Board)
-- Built a web app to allow students easy access to an interactive platform to ask questions while completing homework assignments and form study groups
-- Utilized Node and Express to build a REST API server; all data stored in a database using SQLite.
-- Client built using HTML, CSS, & JavaScript; users can view, like, create, search, filter, and delete posts. 
+- Built a Web Service to allow students easy access to an interactive platform to ask questions while completing homework assignments and form study groups
+- Utilized Node and Express to build a REST API server; all data stored in a database using SQLite
+- Client built using HTML, CSS, & JavaScript; users can view, like, create, search, filter, and delete posts
 
 
 !["view"](/images/view.PNG)
