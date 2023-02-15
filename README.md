@@ -1,7 +1,7 @@
 # [Internship Matcher](https://github.com/amicha23/Internship-Matcher)
-- Built a Web Service to allow students easy access find technical internships
-- Implement a profile system to match internships to student interests
-- Client built using HTML, CSS, JavaScript, & React; users can view, favorite, and search internship posts
+- Built a Web Service allowing students easy access to technical internships.
+- Implement a profile system and matching algorithm to pair users to internships.
+- Client built using HTML, CSS, JavaScript, & React; users can view, favorite, and search internship posts.
 - Website: [Internship Matcher](https://internet-7e208.web.app/)
 
 !["Internship Matcher Webpage"](/images/internship.PNG)
@@ -13,9 +13,9 @@
 !["Multi-query Search"](/images/queries.PNG)
 
 # [Homework Board](https://github.com/amicha23/Homework-Board)
-- Built a Web Service to allow students easy access to an interactive platform to ask questions while completing homework assignments and form study groups
-- Utilized Node and Express to build a REST API server; all data stored in a database using SQLite
-- Client built using HTML, CSS, & JavaScript; users can view, like, create, search, filter, and delete posts
+- Built a Web Service to allow students easy access to an interactive platform to ask questions while completing homework assignments and form study groups.
+- Utilized Node and Express to build a REST API server; all data stored in a database using SQLite.
+- Client built using HTML, CSS, & JavaScript; users can view, like, create, search, filter, and delete posts.
 
 
 !["view"](/images/view.PNG)
@@ -41,7 +41,7 @@
 - Create a tool for incoming college students to quickly view US university statistics and condense it into different data visuals, so students will be able to compare multiple universities at the same time.
 - Clean datasets and build models to allow viewers to efficiently acknowledge United States university statistics.
 - Style Web application with HTML and CSS to incorporate UI elements.
-- Optimize interactivity with RShiny application to feature server-side development
+- Optimize interactivity with RShiny application to feature server-side development.
 
 !["Project 3 Illustration"](/images/University_Picture.PNG)
 
