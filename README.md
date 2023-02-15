@@ -1,3 +1,9 @@
+# [Internship Matcher](https://github.com/amicha23/Internship-Matcher)
+- Built a Web Service to allow students easy access find technical internships
+- Implement a profile system to match internships to student interests
+- Client built using HTML, CSS, JavaScript, & React; users can view, favorite, and search internship posts
+- Website: [Internship Matcher](https://internet-7e208.web.app/)
+
 # [TF-IDF Search Engine](https://github.com/amicha23/Search-Engine)
 - Optimize a Java Information Retrieval System that uses Term Frequency-Inverse Document Frequency to retrieve the most relevant documents given a query. 
 - Implement a ranking system and sorting algorithm that presents the relevance of each document in a directory based on a single query or multi-query inputted by the user.
