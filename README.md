@@ -4,6 +4,8 @@
 - Client built using HTML, CSS, JavaScript, & React; users can view, favorite, and search internship posts
 - Website: [Internship Matcher](https://internet-7e208.web.app/)
 
+!["Internship Matcher Webpage"](/images/internship.PNG)
+
 # [TF-IDF Search Engine](https://github.com/amicha23/Search-Engine)
 - Optimize a Java Information Retrieval System that uses Term Frequency-Inverse Document Frequency to retrieve the most relevant documents given a query. 
 - Implement a ranking system and sorting algorithm that presents the relevance of each document in a directory based on a single query or multi-query inputted by the user.
